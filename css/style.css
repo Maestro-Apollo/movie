@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+section {
+    padding: 60px 0;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #F4EFDB !important;
+}
+
+img {
+    width: 100%;
+}
+
+.navbar-brand {
+    width: 7%;
+}
+
+.nav-item {
+    font-family: 'Lato', sans-serif;
+}
+
+input {
+    font-family: 'Lato', sans-serif;
+}
+
+.home_btn {
+    background-color: #EEA11D;
+    font-family: 'Lato', sans-serif;
+    color: #481639;
+    font: bolder;
+    transition: 0.7s;
+    border: 1px solid #481639;
+}
+
+.home_btn:hover {
+    background-color: #481639;
+    color: #EEA11D;
+}
+
+.item_section .card-body .card-title {
+    color: #481639;
+    font-family: 'Lato', sans-serif;
+}
+
+.item_section .card-body small {
+    font-family: 'Lato', sans-serif;
+}
+
+.item_section h3 {
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 60px;
+    color: #481639;
+}
+
+.blog .carousel-indicators {
+    left: 0;
+    top: auto;
+    bottom: -40px;
+}
+
+
+/* The colour of the indicators */
+
+.fav_btn {
+    background-color: #EEA11D;
+    transition: 0.7s;
+    float: right;
+}
+
+.log_btn {
+    background-color: #313534;
+    transition: 0.7s;
+    color: #fff;
+}
+
+.log_btn:hover {
+    background-color: #3B1512;
+    color: #fff;
+}
+
+.log_section p,
+h5,
+button,
+input {
+    font-family: 'Lato', sans-serif;
+}
+
+.contact_section p,
+h4,
+h6 {
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar-brand {
+    width: 20%;
+}
+
+.bg_color {
+    background-color: #FCF4ED !important;
+}
